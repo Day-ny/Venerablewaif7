@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hello World!</h1>
 
-<!--
-**VenerableWaif7/Venerablewaif7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou do VenerablWaif7!
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou estudando HTML e python;
+- 📫 Contate-me no Email: danielandrade12345678910@gmail.com;
+- 😄 Pronouns: he/him;
+- ⚡ Existem mais galinhas do que pessoas no mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+ <a href - "mailto:contato@danielandrade12345678910.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+</div>

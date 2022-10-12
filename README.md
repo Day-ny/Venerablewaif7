@@ -12,6 +12,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
- <a href ="https://googlemailto:contato@danielandrade12345678910.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=dark"target="_blank"></a>
+ <a href ="https://google.com.brmailto:contato@danielandrade12345678910.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=dark"target="_blank"></a>
 </div>
 
